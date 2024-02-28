@@ -1,4 +1,4 @@
-const API_BASE_URL_DEVELOPMENT = 'https://localhost:7178';
+const API_BASE_URL_DEVELOPMENT = 'http://localhost:5006';
 const API_BASE_URL_PRODUCTION = 'https://appname.azurewebsites.net';
 
 const ENDPOINTS = {
